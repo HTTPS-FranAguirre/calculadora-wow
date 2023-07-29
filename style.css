@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+main {
+  border: 1px solid black;
+  border-radius: 1%;
+  width: 720px;
+}
+
+.texto-ganancia {
+  color: green;
+}
+
+.texto-perdida {
+  color: red;
+}
